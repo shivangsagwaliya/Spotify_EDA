@@ -61,4 +61,4 @@ The notebook includes various visualizations such as:
 Contributions are welcome! If you have suggestions for deeper analysis or new visualizations, feel free to open an issue or submit a pull request.
 
 ---
-*Created with ❤️ by [Your Name]*
+*Created with ❤️ by Shivang*
